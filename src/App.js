@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 import './App.css';
-import About from './component/About';
+//import About from './component/About';
 import Alert from './component/Alert';
 // import About from './component/About';
 import Navbar from './component/Navbar';
